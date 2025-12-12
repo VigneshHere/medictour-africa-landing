@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
 
         <div className="md:w-1/2 w-full h-80 rounded-2xl overflow-hidden shadow-lg relative">
-          <Image src="/images/hero-africa.jpg" alt="Hero" fill className="object-cover" priority />
+          <Image src="/images/hero-africa.png" alt="Hero" fill className="object-cover" priority />
           <div className="absolute inset-0 bg-gradient-to-r from-[#003A6C]/60 to-transparent"></div>
         </div>
       </div>
