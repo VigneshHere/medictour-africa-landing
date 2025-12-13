@@ -2,6 +2,8 @@ import React from "react";
 import Hero from "../../components/Hero";
 import HospitalsGrid from "../../components/HospitalsGrid";
 import ContactForm from "../../components/ContactForm";
+import WhyAfrica from "../../components/WhyAfrica";
+
 
 export const metadata = {
   title: "Medictour Africa – Skip the Wait. Heal in India.",
