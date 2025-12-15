@@ -50,6 +50,10 @@ export default function AfricaPage() {
 
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">Sample cost comparison (indicative)</h2>
+          <h3>Treatment costs vary depending on condition, hospital, and complexity.
+The figures below are indicative ranges to help families understand
+the potential cost difference when choosing treatment in India.
+</h3>
           <div className="overflow-auto">
             <table className="w-full text-sm border">
               <thead className="bg-white">
