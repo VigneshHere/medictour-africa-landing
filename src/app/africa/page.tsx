@@ -17,6 +17,7 @@ export default function AfricaPage() {
     <div className="bg-white">
       <Hero />
       <WhyAfrica />
+      <WhyIndia />
       <div className="container-md mx-auto py-12">
         <section className="mb-12">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
