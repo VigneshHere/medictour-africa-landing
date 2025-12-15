@@ -5,6 +5,8 @@ import ContactForm from "../../components/ContactForm";
 import WhyAfrica from "../../components/WhyAfrica";
 import WhyIndia from "../../components/WhyIndia";
 import WhyMedictour from "../../components/WhyMedictour";
+import EmotionalCTA from "@/components/EmotionalCTA";
+
 
 
 
@@ -21,6 +23,9 @@ export default function AfricaPage() {
       <WhyAfrica />
       <WhyIndia />
       <WhyMedictour />
+      <HowItWorks />
+      <EmotionalCTA />
+      <ContactForm />
       <div className="container-md mx-auto py-12">
         <section className="mb-12">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
