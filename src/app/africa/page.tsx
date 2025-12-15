@@ -87,16 +87,18 @@ the potential cost difference when choosing treatment in India.
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">How it works</h2>
           <ol className="list-decimal pl-6 space-y-3">
-            <li>Share medical reports</li>
+            <li>Share your medical reports securely</li>
             <li>Clinical review & cost estimate</li>
-            <li>Plan travel & schedule surgery</li>
+            <li>We help plan travel, treatment dates, and hospital admission</li>
             <li>Arrive, treatment, discharge & follow-up</li>
           </ol>
         </section>
       </div>
-
+<h2>Your information is reviewed only by our medical coordination team.
+</h2>
       <ContactForm />
-
+<p>We never share your details with hospitals without your consent.
+</p>
       <footer className="site-footer mt-12">
         <div className="container-md mx-auto text-center">
           <div className="text-sm">Medictour — Affordable World-Class Treatment in India for African Patients</div>
