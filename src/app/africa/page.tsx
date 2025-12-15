@@ -3,6 +3,8 @@ import Hero from "../../components/Hero";
 import HospitalsGrid from "../../components/HospitalsGrid";
 import ContactForm from "../../components/ContactForm";
 import WhyAfrica from "../../components/WhyAfrica";
+import WhyIndia from "../../components/WhyIndia";
+
 
 
 export const metadata = {
